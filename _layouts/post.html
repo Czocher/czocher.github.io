@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <p><strong>{{ page.excerpt | remove: '<p>' | remove: '</p>' }}</strong></p>
+  </header>
+
+  {{ page.content | remove: page.excerpt }}
+
+  <small>Tags: {{ page.tags | array_to_sentence_string }}</small>
+
+  {% include author.html %}
+
+  <section class="comments">
+    {% include disqus.html %}
+  </section>
+</article>

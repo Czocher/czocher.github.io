@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/czocher
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://czocher.github.io
+  * I am czocher (https://keybase.io/czocher) on keybase.
+  * I have a public key with fingerprint C00F 9126 46F8 908A 3E94  44D9 8284 3164 B26A 29FB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014a6bc89201457b771967747cd8476835b659d04324a552762fc3d0b34fbf42d70a",
+            "fingerprint": "c00f912646f8908a3e9444d982843164b26a29fb",
+            "host": "keybase.io",
+            "key_id": "82843164b26a29fb",
+            "kid": "01014a6bc89201457b771967747cd8476835b659d04324a552762fc3d0b34fbf42d70a",
+            "uid": "4c86a19074d05cd6db9627f5f7b31419",
+            "username": "czocher"
+        },
+        "service": {
+            "hostname": "czocher.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479067531,
+    "expire_in": 157680000,
+    "prev": "8ac5bcb240cd52d6cd480d96e1550e69483e6f6664f78252deda8abf245a0115",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPqe08qBQSHShDKaoHkxnd2dnd4ws6KGrRJZ0kTrt7Mx6lmz3uGeP
+ldGNKIqKVALtpTLoghCaSAQRUWZKkRhBlIR246CRXbCXUKxZq4egx+ZlZv75vm++
+7+evzhofioQ3FGV/tRsvfgk/HqChzQs7avYB6rK9oGAf2MnHNl7OeMKP7rQZKABQ
+ghIyMDV1IouTqlFNkwjWNKSZTEca1hWVYpUwiBQZGaoqa1i2TIVBqiCLWkhmGjRA
+LrBsp4x7cc92fCFrQmgRScYIWzqBuqFwghBiRJd1pEgYURkbMrGoIMbcRMAQ5qiR
+4Hm2K2riEh2z9w/8f/adHJNDpo4NiUANMaiaDDNKsKxZqqVRRUISCYAJ7jnGLh6k
+q3LNGPfA/lwgipW2yYO+BkH+BuSV2X4sSX9linuu75puuXiO+X48URDQ/b3xAL+b
+0+hvpSi1HSZ6KRiV3EvYrgMKJIE0fTuQlpBGINZURcoFfE/c9njUDhCqSAzFCv7h
+lUHnDHObSk0qI2gyVWbYZEiHjGAuqSrkmCBd4djCGCNL02WB4MzQDWrJSDWgJKkg
+CFfhuEJcFkaNMiGasMscw096HOyPnAjPSguFI6EJ6eOCMQtFMib/mb1J3sQfye5k
+fVHLmrrL72ofuHXr0+frrbW1padB9YXpLTOu7kitvff5WXPfttqZV7ZONUafhlOl
+pXPcRy2bJjSl5rble4XnR7MG9Kx5K4rA966QcrLPy596cShSXzJyfojmHGt0Fnes
+/Nb1trg47UzrgrrWZ88X9VAw+AZO/LARpC0bF/70cnD9gqcp2nv9S6qnrTRO6rOb
+t186erwi49bB3TlaQ8mrpU1L6s5Yn0du3l3TP+0OOfGt8HLmkZyPPe2dy7uratz8
+7NVnM6qnXFsymWy5cb+id3p29YVT3RF7OJnLH7adbJ19tqb7Rf+5A84lc93r95FX
+574fboi1D2fe9lc9eXvoQedP
+=OOov
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/czocher
+
+==================================================================
