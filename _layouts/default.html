@@ -8,7 +8,7 @@
 
     <title>{{ page.title }}</title>
 
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{% if page.title %} {{ page.title }} {% else %} {{ site.description }} {% endif %}">
 
     <!-- Link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.0.0/normalize.min.css">
