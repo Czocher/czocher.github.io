@@ -218,4 +218,5 @@ footer {
 code {
   hyphens: none;
   white-space: nowrap;
+  font-size: 15px;
 }
